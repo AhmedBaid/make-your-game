@@ -1,5 +1,6 @@
 # 🎮 Brick Bricker Game
 
+
 Welcome to **Brick Bricker** — a classic arcade-style game made with HTML, CSS, and JavaScript.
 
 ## 🧱 How to Play
